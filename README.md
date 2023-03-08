@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Teixeira Melo</h1>
-<h3 align="center">im FUllStack developer</h3>
+<h3 align="center">im fullstack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltm999&label=Profile%20views&color=0e75b6&style=flat" alt="danieltm999" /> </p>
 
