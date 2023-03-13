@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Daniel Teixeira Melo</h1>
-<h3 align="center">im fullstack developer</h3>
+<h3 align="center">Im fullstack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltm999&label=Profile%20views&color=0e75b6&style=flat" alt="danieltm999" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 👯 I’m looking to collaborate on [gerenciador de banco de dados](https://github.com/DanielTM999/mysqli_query.git)
 
-- 💬 Ask me about **react, node, php, SQL, JS**
+- 💬 Ask me about **reack, node, php, SQL, JS**
 
 - 📫 How to reach me **danielmelo101203@gmail.coom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-melo-7948a7249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-melo-7948a7249/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/danieltm999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/danieltm999/" height="30" width="40" /></a>
+<a href="https://discord.gg/Danieltm#8131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Danieltm#8131" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieltm999&show_icons=true&locale=en" alt="danieltm999" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieltm999&" alt="danieltm999" /></p>
+
