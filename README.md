@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltm999&label=Profile%20views&color=0e75b6&style=flat" alt="danieltm999" /> </p>
 
-- 👯 I’m looking to collaborate on [gerenciador de banco de dados](https://github.com/DanielTM999/mysqli_query.git)
+- 👯 I’m looking to collaborate on [gerenciador de banco de dados(Mysqlquery)](https://github.com/DanielTM999/mysqli_query.git)
 
 - 💬 Ask me about **reack, node, php, SQL, JS**
 
