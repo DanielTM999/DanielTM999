@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [gerenciador de banco de dados(Mysqlquery)](https://github.com/DanielTM999/mysqli_query.git)
 
-- 💬 Ask me about **React, node, php, SQL, JS**
+- 💬 Ask me about **React, Java, php, SQL, JS**
 
 - 📫 How to reach me **danielmelo101203@gmail.coom**
 - <a href = "https://danieltm999.github.io/">Portifolio(clique aqui)</a>
