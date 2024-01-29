@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **C#, java, Spring boot, Asp.net**
 
-- 📫Conato **danielmelo101203@gmail.coom**
+- 📫Contato **danielmelo101203@gmail.coom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
