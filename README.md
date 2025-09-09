@@ -64,9 +64,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielTM999&theme=tokyo-night&hide_border=true)
 
-![Commits](https://badgen.net/badge/commits/diários/blue?icon=github)
-
-![Repos](https://badgen.net/badge/repos/públicos/orange?icon=github)
 
 
 
