@@ -64,3 +64,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltm999&show_icons=true&locale=en&layout=compact" alt="danieltm999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieltm999&show_icons=true&locale=en" alt="danieltm999" /></p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=DanielTM999&theme=tokyonight&hide_border=true)
+
+
