@@ -28,11 +28,11 @@
   </tr>
 </table>
 
-- 🔭 Atualmente, estou trabalhando em [Origins](https://github.com/DanielTM999/origins)
-- 🔭 Atualmente, estou trabalhando em [ValidationIO](https://github.com/DanielTM999/ValidationIO)
-- 🔭 Atualmente, estou trabalhando em [httpSecurityOrigins](https://github.com/DanielTM999/httpSecurityOrigins)
-- 🔭 Atualmente, estou trabalhando em [usecase_dispatcher](https://github.com/DanielTM999/usecase_dispatcher)
-- 🔭 Atualmente, estou trabalhando em [classfinder](https://github.com/DanielTM999/classfinder)
+- 📂 [Origins](https://github.com/DanielTM999/origins)  
+- 📂 [ValidationIO](https://github.com/DanielTM999/ValidationIO)  
+- 📂 [httpSecurityOrigins](https://github.com/DanielTM999/httpSecurityOrigins)  
+- 📂 [usecase_dispatcher](https://github.com/DanielTM999/usecase_dispatcher)  
+- 📂 [classfinder](https://github.com/DanielTM999/classfinder)  
 
 - 👨‍💻 Portfólio [https://danieltm999.github.io/](https://danieltm999.github.io/)
 
