@@ -28,11 +28,14 @@
   </tr>
 </table>
 
+<h3 align="left">📌 Projetos em Destaque:</h3>
+
 - 📂 [Origins](https://github.com/DanielTM999/origins)  
 - 📂 [ValidationIO](https://github.com/DanielTM999/ValidationIO)  
 - 📂 [httpSecurityOrigins](https://github.com/DanielTM999/httpSecurityOrigins)  
 - 📂 [usecase_dispatcher](https://github.com/DanielTM999/usecase_dispatcher)  
 - 📂 [classfinder](https://github.com/DanielTM999/classfinder)  
+  
 
 - 👨‍💻 Portfólio [https://danieltm999.github.io/](https://danieltm999.github.io/)
 
