@@ -17,9 +17,6 @@
 </p>
 
 
-
-
-
 <h3 align="left">📌 Projetos em Destaque:</h3>
 
 - 📂 [Origins](https://github.com/DanielTM999/origins)  
