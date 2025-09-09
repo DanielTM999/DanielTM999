@@ -8,25 +8,6 @@
   <img src="https://skillicons.dev/icons?i=java,spring,php,postgresql,git,arduino,postman,linux" alt="Habilidades" />
 </p>
 
-<h3 align="left">Meus Projetos em Destaque:</h3>
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/DanielTM999/origins"></a>
-      <p><strong>Origins</strong><br>Um projeto que permite...</p>
-    </td>
-    <td>
-      <a href="https://github.com/DanielTM999/ValidationIO"></a>
-      <p><strong>ValidationIO</strong><br>Ferramenta para validar...</p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/DanielTM999/httpSecurityOrigins"></a>
-      <p><strong>httpSecurityOrigins</strong><br>Um projeto focado em segurança...</p>
-    </td>
-  </tr>
-</table>
 
 <h3 align="left">📌 Projetos em Destaque:</h3>
 
