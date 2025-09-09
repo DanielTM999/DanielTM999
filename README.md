@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Daniel Melo</h1>
-<h3 align="center">desenvolvedor Backend</h3>
+<h3 align="center">desenvolvedor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltm999&label=Profile%20views&color=0e75b6&style=flat" alt="danieltm999" /> </p>
 
@@ -7,6 +7,10 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,php,postgresql,git,arduino,postman,linux" alt="Habilidades" />
 </p>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 
 <h3 align="left">📌 Projetos em Destaque:</h3>
