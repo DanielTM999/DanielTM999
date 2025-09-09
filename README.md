@@ -62,4 +62,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=DanielTM999&theme=tokyonight&hide_border=true)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielTM999&theme=tokyo-night&hide_border=true)
+
+
 
