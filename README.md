@@ -5,7 +5,7 @@
 
 <h3 align="left">Habilidades:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,php,postgresql,git,arduino,postman,linux" alt="Habilidades" />
+  <img src="https://skillicons.dev/icons?i=java,spring,php,postgresql,git,arduino,postman,linux,kafka" alt="Habilidades" />
 </p>
 
 <h3 align="left">🛠️ Tecnologias em Foco:</h3>
