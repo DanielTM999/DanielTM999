@@ -19,16 +19,16 @@
 
 <h3 align="left">📌 Projetos em Destaque:</h3>
 
+- 📂 [KernelScheduleAVR](https://github.com/DanielTM999/KernelScheduleAVR)  
+- 📂 [kernon](https://github.com/DanielTM999/kernon) 
 - 📂 [Origins](https://github.com/DanielTM999/origins)  
 - 📂 [ValidationIO](https://github.com/DanielTM999/ValidationIO)  
-- 📂 [httpSecurityOrigins](https://github.com/DanielTM999/httpSecurityOrigins)  
-- 📂 [usecase_dispatcher](https://github.com/DanielTM999/usecase_dispatcher)  
-- 📂 [classfinder](https://github.com/DanielTM999/classfinder)  
+- 📂 [httpSecurityOrigins](https://github.com/DanielTM999/httpSecurityOrigins)   
   
 
 - 👨‍💻 Portfólio [https://danieltm999.github.io/](https://danieltm999.github.io/)
 
-- 💬 Pergunte-me sobre **C#, Java, Spring Boot, Asp.net**
+- 💬 Pergunte-me sobre **Java, Spring Boot, C#, Asp.net**
 
 - 📫 Contato: **danielmelo101203@gmail.com**
 
